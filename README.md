@@ -19,4 +19,3 @@ Sample output:
       Mail App
       Chat App
       Video Call App
-
